@@ -1,6 +1,7 @@
 # VOIP-LAB-3
 
-![Uploading VOIP.jpg…]()
+![VOIP](https://github.com/user-attachments/assets/9f5ad11e-ea00-4c5c-b57e-458057d472c0)
+
 # VoIP_Cisco_Packet_Tracer
                              Telephony VoIP Network in Cisco Packet Tracer
 
